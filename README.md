@@ -8,12 +8,15 @@ https://www.youtube.com/watch?v=VzRaH6iqjtU
 ----------Required----------
 
 initialize: 
+
 public SynapseZAPI.SynapseZAPI synapseZAPI = new SynapseZAPI.SynapseZAPI();
 
 Injection: 
+
 synapseZAPI.Inject(Directory.GetCurrentDirectory());
 
-Execution: 
+Execution:
+
 synapseZAPI.Execute(Directory.GetCurrentDirectory(), fastColoredTextBox1.Text);
 
 ----------Optional----------
