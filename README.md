@@ -1,6 +1,6 @@
 .NET FRAMEWORK 4.8
 
-If FastColoredTextBox does not show in toolbox right click All windows Forms in toolbox, then browse thgen FastColoredTextBox.dll 👍
+If FastColoredTextBox does not show in toolbox right click 'All windows Forms' in toolbox, then browse thgen FastColoredTextBox.dll 👍
 
 follow the youtube video:
 https://www.youtube.com/watch?v=VzRaH6iqjtU
