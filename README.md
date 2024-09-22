@@ -7,6 +7,8 @@ https://www.youtube.com/watch?v=VzRaH6iqjtU
 
 ----------Required----------
 
+using SynapseZAPI;
+
 initialize: 
 
 public SynapseZAPI.SynapseZAPI synapseZAPI = new SynapseZAPI.SynapseZAPI();
